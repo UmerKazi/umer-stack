@@ -1,0 +1,16 @@
+.error {
+    background-color: #ff6861;
+    padding: 15px;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 10px;
+    height: fit-content;
+}
+
+.errorText {
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    font-family: var(--font);
+}

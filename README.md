@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-umer-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-umer-app`](https://github.com/UmerKazi/create-umer-app).
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`firebase`](https://www.npmjs.com/package//firebase) for backend connectivity, as well as [`@mui/material`]https://www.npmjs.com/package/@mui/material) for frontend components.
+This project uses [`firebase`](https://www.npmjs.com/package//firebase) for backend connectivity, as well as [`@mui/material`](https://www.npmjs.com/package/@mui/material) for frontend components.
 
 ## Learn More
 
